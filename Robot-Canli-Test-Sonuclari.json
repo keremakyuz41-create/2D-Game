@@ -1,0 +1,6 @@
+{
+    "status": "failed",
+    "timestampUtc": "2026-10-28T17:23:26.8187090Z",
+    "error": "System.Exception: Robot hesaplanan yolu izleyemedi.\r\n  at Cernobil.Editor.CompanionPlayValidation.Tick () [0x00304] in C:\\Users\\Asus\\Documents\\Codex\\2026-10-28\\un-tyden-2d-ernobil-konulu-zombi-3\\outputs\\CernobilSonTahliye\\Assets\\Editor\\CompanionPlayValidation.cs:114 ",
+    "cases": []
+}
