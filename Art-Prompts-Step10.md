@@ -1,0 +1,12 @@
+# Adım 10 görsel kaynakları
+
+Sığınak avlusu: `Assets/Art/Shelter/ShelterCourtyard.png`, 1536x1024. Kaynak: built-in imagegen, exec-32a63196-15ce-49f0-a53b-66b857314f2e.png. Açık karanlık kapı boşluğu üzerine oyun gerçek kilitli kapı sprite'ı koyar.
+
+Prompt:
+Use case: stylized-concept. Asset type: Unity 2D top-down slightly angled pixel-art background for Chernobyl zombie game finale, landscape 3:2. A deserted overgrown concrete Soviet fallout shelter entrance courtyard. Strict playable layout: central 65 percent is clear flat cracked concrete walking area; top 30 percent massive concrete bunker facade, centerpiece recessed doorway at exact horizontal center, opening occupies x44%-56%, y15%-36%. IMPORTANT the recessed doorway is DARK OPEN interior, no door panel painted in; a separate interactive metal door sprite will overlay it. Above warm amber lamp. Left edge abandoned military tent and crates; right edge wrecked rusty van and chainlink fence, ivy, moss, radiation sign. Muted olive, charcoal, rusty ochre, warm subtle lamplight. Fine detailed crisp retro pixel-art similar old isometric survival games but all ground in XY 2D orthographic overhead 3/4, no side scrolling horizon. No player, no NPC, no robot, no zombies, no weapons, no HUD, no chat panel, no text, no dialogue bubbles. Bottom and central region must remain clear for player navigation. This is a usable background asset not a screenshot or mockup.
+
+Sığınak görevlisi: `Assets/Art/Shelter/ShelterGuard.png`, 1024x1536 RGBA; alfa 0..254. Kaynak: built-in imagegen, exec-eb85eac8-7798-4810-8165-4778754048e6.png. Aynı sprite'ın üst bölümü konuşma portresinde kullanılır.
+
+Prompt:
+Use case: stylized-concept. Asset type: single transparent-background 2D pixel art NPC sprite for a Chernobyl top-down Unity game. One full-body male fallout shelter guard, blue-gray military uniform, dark navy cap, small yellow radiation patch, charcoal boots, holding a compact rifle safely across chest. Standing idle facing toward viewer slightly right, overhead three-quarter perspective, readable proportions matching detailed gritty retro survival game characters. Warm highlights from lamp, muted blue uniform. Sprite centered, entire body including boots visible, no cropping, no ground plane, no scenery, no shadows outside feet, no text, no UI, no multiple views, NO sheet. Transparent alpha around figure. Crisp pixel clusters, distinct silhouette.
+
