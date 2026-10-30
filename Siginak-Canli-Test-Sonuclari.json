@@ -1,0 +1,10 @@
+{
+    "status": "passed",
+    "detail": "Gerçek model izni, kapı animasyonu ve sığınak çıkış tetikleyicisi çalıştı.",
+    "question": "Yaralandım, sığınmaya ihtiyacım var. Size yardım da edebilirim. Beni içeri alabilir misin?",
+    "reply": "İçeri geç, burada güvendesin. Kapıyı açıyorum.",
+    "seconds": 9.63987040000029,
+    "liveModel": true,
+    "closedGateRejectedExit": true,
+    "unauthorizedActorRejected": true
+}
