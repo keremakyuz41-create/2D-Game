@@ -1,0 +1,25 @@
+8982d68 art: koşu atlasını ve kalıcı animasyon karelerini ekle
+2e5ba3a art: tabanca ve otomatik tüfek görsellerini ekle
+53e5c17 art: ikmal kutusu ve namlu parlaması varlıklarını ekle
+55a032e art: yardımcı bakım robotu görselini ekle
+178b035 art: santral kapısı ve kontrol paneli görsellerini ekle
+c37ecbf art: gerçekçi sürgülü çelik kapı varlıklarını ekle
+fe035ca art: tel örgü görselini ve döşenebilir sprite kesitini ekle
+a1ef0fe art: sığınak avlusu arka planını ekle
+fd93720 art: sığınak görevlisi ve portre kaynağını ekle
+42ee65f art: sığınak kepenginin kalıcı sprite kesitini ekle
+ca72661 data: silah kapasitesi ve atış hızı verilerini ekle
+3de3922 scene: hareket ve atış deneme sahnelerini ekle
+532c09f scene: zombi takip ve hayatta kalma denemelerini ekle
+e4b770f scene: piksel sokak ve koşu-silah sahnelerini ekle
+c14a1f8 scene: ilk iki oynanabilir bölümün kaynak sahnelerini ekle
+9eae5ea scene: robot ve kapı bulmacası sahnelerini ekle
+6d9ff65 scene: yerel NPC deneme sahnelerini ekle
+5509b6f scene: güncel üç bölümlü final sahnelerini ekle
+b86c50a docs: proje kullanımını ve çalışma planlarını ekle
+c8f7deb docs: robot tasarımını ve ölçülmüş NavMesh sonuçlarını ekle
+9cd97df docs: yerel model kurulumunu ve NPC kontrol sonuçlarını ekle
+949ab25 docs: sığınak finalini ve gerçek model testini belgele
+da62945 docs: net yazıları ve baştan oynama testini belgele
+cdab249 docs: görsel üretim kaynaklarını ve promptları ekle
+07f895b chore: final bölüm sırasını ve kaynak bütünlüğü kaydını tamamla
