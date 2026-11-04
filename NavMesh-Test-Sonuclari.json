@@ -1,0 +1,29 @@
+{
+    "status": "passed",
+    "scene": "10_RobotBolum2",
+    "timestampUtc": "2026-10-28T17:16:41.4276293Z",
+    "buildMilliseconds": 8.67020320892334,
+    "passed": [
+        "Native NavMesh build succeeds",
+        "Complete native path uses service gap from (-12.20, -3.20)",
+        "Complete native path uses service gap from (-4.00, 0.00)",
+        "Complete native path uses service gap from (6.00, -2.00)",
+        "Complete native path uses service gap from (7.00, 3.00)",
+        "Closed gate blocks direct native navigation",
+        "Player cannot fit through the service gap",
+        "Robot fits through the service gap",
+        "Raycast sensor measures the gate distance",
+        "Control panel rejects an unauthorized actor",
+        "Native NavMesh updates when gate opens",
+        "Open gate provides a shorter route",
+        "Open gate permits direct native navigation"
+    ],
+    "closedPathLengths": [
+        29.259172439575197,
+        20.458988189697267,
+        13.949792861938477,
+        9.24397087097168
+    ],
+    "openedPathLength": 5.590169906616211,
+    "error": ""
+}
