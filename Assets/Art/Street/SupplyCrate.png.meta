@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 44891388fa9f15145a9dd81a0e944253
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2484092357480628352
+    second: SupplyCrate_0
+  - first:
+      213: 2190092718796689408
+    second: SupplyCrate_1
+  - first:
+      213: 8520512538869196114
+    second: SupplyCrate_2
+  - first:
+      213: 4001844495393783954
+    second: SupplyCrate_3
+  - first:
+      213: -6124074098544710025
+    second: SupplyCrate_4
+  - first:
+      213: 6971120404407620528
+    second: SupplyCrate_5
+  - first:
+      213: 1406569826649950395
+    second: SupplyCrate_6
+  - first:
+      213: -1207490164493719882
+    second: SupplyCrate_7
+  - first:
+      213: 2872453192972714140
+    second: SupplyCrate_8
+  - first:
+      213: 4407042135697383568
+    second: SupplyCrate_9
+  - first:
+      213: 9001803602361246807
+    second: SupplyCrate_10
+  - first:
+      213: -6484557599103910297
+    second: SupplyCrate_11
+  - first:
+      213: -7069344769467183941
+    second: SupplyCrate_12
+  - first:
+      213: 3170289411813996786
+    second: SupplyCrate_13
+  - first:
+      213: -7778919475442274971
+    second: SupplyCrate_14
+  - first:
+      213: -7646386371990093909
+    second: SupplyCrate_15
+  - first:
+      213: -1952235972506238266
+    second: SupplyCrate_16
+  - first:
+      213: -2750750715290006846
+    second: SupplyCrate_17
+  - first:
+      213: 71776643893255696
+    second: SupplyCrate_18
+  - first:
+      213: -9054832432660707243
+    second: SupplyCrate_19
+  - first:
+      213: 6966640745849578443
+    second: SupplyCrate_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 804.44446
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SupplyCrate_0
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 980
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08045ec76d4497220800000000000000
+      internalID: 2484092357480628352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_1
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 965
+        width: 184
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000db0169b5c46e10800000000000000
+      internalID: 2190092718796689408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_2
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1028
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2556f8fa201fe3670800000000000000
+      internalID: 8520512538869196114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_3
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 982
+        width: 163
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2908c4aad58698730800000000000000
+      internalID: 4001844495393783954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 973
+        width: 76
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e621add0be20ba0800000000000000
+      internalID: -6124074098544710025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 988
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3913fb2156eb060800000000000000
+      internalID: 6971120404407620528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 956
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8c0451ec3258310800000000000000
+      internalID: 1406569826649950395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 977
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6e29bc7122e3fe0800000000000000
+      internalID: -1207490164493719882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_8
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 988
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c904319c5f00dd720800000000000000
+      internalID: 2872453192972714140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_9
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 918
+        width: 33
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090eb601975f82d30800000000000000
+      internalID: 4407042135697383568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_10
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 988
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754e298cea4dcec70800000000000000
+      internalID: 9001803602361246807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_11
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1002
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ef9d368393206a0800000000000000
+      internalID: -6484557599103910297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_12
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 955
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc842d1364a4ed90800000000000000
+      internalID: -7069344769467183941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_13
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 967
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8fa525c612ffb20800000000000000
+      internalID: 3170289411813996786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 39
+        width: 1397
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d25e993f9bb0490800000000000000
+      internalID: -7778919475442274971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 80
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf74226b1492e590800000000000000
+      internalID: -7646386371990093909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_16
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 202
+        width: 132
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2c605f9b348e4e0800000000000000
+      internalID: -1952235972506238266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_17
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 165
+        width: 147
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cacc7d6cce53d9d0800000000000000
+      internalID: -2750750715290006846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_18
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 118
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e5d623a700ff000800000000000000
+      internalID: 71776643893255696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_19
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 108
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558829680e5c65280800000000000000
+      internalID: -9054832432660707243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupplyCrate_20
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 88
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc36026f8da7ea060800000000000000
+      internalID: 6966640745849578443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SupplyCrate_0: 2484092357480628352
+      SupplyCrate_1: 2190092718796689408
+      SupplyCrate_10: 9001803602361246807
+      SupplyCrate_11: -6484557599103910297
+      SupplyCrate_12: -7069344769467183941
+      SupplyCrate_13: 3170289411813996786
+      SupplyCrate_14: -7778919475442274971
+      SupplyCrate_15: -7646386371990093909
+      SupplyCrate_16: -1952235972506238266
+      SupplyCrate_17: -2750750715290006846
+      SupplyCrate_18: 71776643893255696
+      SupplyCrate_19: -9054832432660707243
+      SupplyCrate_2: 8520512538869196114
+      SupplyCrate_20: 6966640745849578443
+      SupplyCrate_3: 4001844495393783954
+      SupplyCrate_4: -6124074098544710025
+      SupplyCrate_5: 6971120404407620528
+      SupplyCrate_6: 1406569826649950395
+      SupplyCrate_7: -1207490164493719882
+      SupplyCrate_8: 2872453192972714140
+      SupplyCrate_9: 4407042135697383568
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

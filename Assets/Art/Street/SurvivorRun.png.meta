@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 825706e8d216aca4ea401bb68e06bea9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1572173072631267406
+    second: SurvivorRun_0
+  - first:
+      213: -5688684128028317223
+    second: SurvivorRun_1
+  - first:
+      213: -327508314327325759
+    second: SurvivorRun_2
+  - first:
+      213: -3706037414977576609
+    second: SurvivorRun_3
+  - first:
+      213: 1485356693269419439
+    second: SurvivorRun_4
+  - first:
+      213: -1680594203249928406
+    second: SurvivorRun_5
+  - first:
+      213: -2202934017964725540
+    second: SurvivorRun_6
+  - first:
+      213: -1613869281538909100
+    second: SurvivorRun_7
+  - first:
+      213: -9102680783531124032
+    second: SurvivorRun_8
+  - first:
+      213: -1667351659197266669
+    second: SurvivorRun_9
+  - first:
+      213: -8036045055007854286
+    second: SurvivorRun_10
+  - first:
+      213: -7512081970497139287
+    second: SurvivorRun_11
+  - first:
+      213: 568219663947181661
+    second: SurvivorRun_12
+  - first:
+      213: -7460936603562030601
+    second: SurvivorRun_13
+  - first:
+      213: 532770236864737031
+    second: SurvivorRun_14
+  - first:
+      213: -1839228326079340887
+    second: SurvivorRun_15
+  - first:
+      213: 5862121779794569633
+    second: SurvivorRun_16
+  - first:
+      213: 7864042320220663296
+    second: SurvivorRun_17
+  - first:
+      213: -4451452123419944236
+    second: SurvivorRun_18
+  - first:
+      213: 6049824013807780318
+    second: SurvivorRun_19
+  - first:
+      213: -6920340534152088019
+    second: SurvivorRun_20
+  - first:
+      213: -6761573269218551203
+    second: SurvivorRun_21
+  - first:
+      213: 429052756786369691
+    second: SurvivorRun_22
+  - first:
+      213: -6600744824017295456
+    second: SurvivorRun_23
+  - first:
+      213: 9208987957305117342
+    second: SurvivorRun_24
+  - first:
+      213: -2453020154548682248
+    second: SurvivorRun_25
+  - first:
+      213: -5787071888280961078
+    second: SurvivorRun_26
+  - first:
+      213: -3723758882926033554
+    second: SurvivorRun_27
+  - first:
+      213: -4565411260976062791
+    second: SurvivorRun_28
+  - first:
+      213: -6946084586224404461
+    second: SurvivorRun_29
+  - first:
+      213: -6157602874422686670
+    second: SurvivorRun_30
+  - first:
+      213: -4869454108620709740
+    second: SurvivorRun_31
+  - first:
+      213: -1201814354533600458
+    second: SurvivorRun_32
+  - first:
+      213: 2210588951961625965
+    second: SurvivorRun_33
+  - first:
+      213: -7660718255850302899
+    second: SurvivorRun_34
+  - first:
+      213: 5375056807664038394
+    second: SurvivorRun_35
+  - first:
+      213: 4375567903749935278
+    second: SurvivorRun_36
+  - first:
+      213: 766455849370167884
+    second: SurvivorRun_37
+  - first:
+      213: -6895297465602087257
+    second: SurvivorRun_38
+  - first:
+      213: 4691029345143648853
+    second: SurvivorRun_39
+  - first:
+      213: 7822758965537278859
+    second: SurvivorRun_40
+  - first:
+      213: -983132884515107562
+    second: SurvivorRun_41
+  - first:
+      213: 6328436106419157914
+    second: SurvivorRun_42
+  - first:
+      213: -3032679474953373291
+    second: SurvivorRun_43
+  - first:
+      213: -2351940326066650332
+    second: SurvivorRun_44
+  - first:
+      213: 3181389215348239802
+    second: SurvivorRun_45
+  - first:
+      213: 988863897242831412
+    second: SurvivorRun_46
+  - first:
+      213: 7792816829805702543
+    second: SurvivorRun_47
+  - first:
+      213: -6050466674412295937
+    second: SurvivorRun_48
+  - first:
+      213: -4414245656565557969
+    second: SurvivorRun_49
+  - first:
+      213: -2392249458062279458
+    second: SurvivorRun_50
+  - first:
+      213: 5796926802244795850
+    second: SurvivorRun_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 418.62067
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 627
+        height: 607
+      alignment: 9
+      pivot: {x: 0.56, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 607
+        width: 627
+        height: 607
+      alignment: 9
+      pivot: {x: 0.44, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 627
+        height: 607
+      alignment: 9
+      pivot: {x: 0.56, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_3
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 627
+        height: 607
+      alignment: 9
+      pivot: {x: 0.44, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Run_0: 0
+      Run_1: 0
+      Run_2: 0
+      Run_3: 0
+      SurvivorRun_0: 1572173072631267406
+      SurvivorRun_1: -5688684128028317223
+      SurvivorRun_10: -8036045055007854286
+      SurvivorRun_11: -7512081970497139287
+      SurvivorRun_12: 568219663947181661
+      SurvivorRun_13: -7460936603562030601
+      SurvivorRun_14: 532770236864737031
+      SurvivorRun_15: -1839228326079340887
+      SurvivorRun_16: 5862121779794569633
+      SurvivorRun_17: 7864042320220663296
+      SurvivorRun_18: -4451452123419944236
+      SurvivorRun_19: 6049824013807780318
+      SurvivorRun_2: -327508314327325759
+      SurvivorRun_20: -6920340534152088019
+      SurvivorRun_21: -6761573269218551203
+      SurvivorRun_22: 429052756786369691
+      SurvivorRun_23: -6600744824017295456
+      SurvivorRun_24: 9208987957305117342
+      SurvivorRun_25: -2453020154548682248
+      SurvivorRun_26: -5787071888280961078
+      SurvivorRun_27: -3723758882926033554
+      SurvivorRun_28: -4565411260976062791
+      SurvivorRun_29: -6946084586224404461
+      SurvivorRun_3: -3706037414977576609
+      SurvivorRun_30: -6157602874422686670
+      SurvivorRun_31: -4869454108620709740
+      SurvivorRun_32: -1201814354533600458
+      SurvivorRun_33: 2210588951961625965
+      SurvivorRun_34: -7660718255850302899
+      SurvivorRun_35: 5375056807664038394
+      SurvivorRun_36: 4375567903749935278
+      SurvivorRun_37: 766455849370167884
+      SurvivorRun_38: -6895297465602087257
+      SurvivorRun_39: 4691029345143648853
+      SurvivorRun_4: 1485356693269419439
+      SurvivorRun_40: 7822758965537278859
+      SurvivorRun_41: -983132884515107562
+      SurvivorRun_42: 6328436106419157914
+      SurvivorRun_43: -3032679474953373291
+      SurvivorRun_44: -2351940326066650332
+      SurvivorRun_45: 3181389215348239802
+      SurvivorRun_46: 988863897242831412
+      SurvivorRun_47: 7792816829805702543
+      SurvivorRun_48: -6050466674412295937
+      SurvivorRun_49: -4414245656565557969
+      SurvivorRun_5: -1680594203249928406
+      SurvivorRun_50: -2392249458062279458
+      SurvivorRun_51: 5796926802244795850
+      SurvivorRun_6: -2202934017964725540
+      SurvivorRun_7: -1613869281538909100
+      SurvivorRun_8: -9102680783531124032
+      SurvivorRun_9: -1667351659197266669
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
